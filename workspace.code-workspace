@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/WebDevelopment"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html5up-dimension"
+	}
+}
